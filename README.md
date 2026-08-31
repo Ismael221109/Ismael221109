@@ -6,7 +6,7 @@ Aprendiz de **Tecnólogo en Análisis y Desarrollo de Software** en el SENA - Ce
 
 ## 🚀 Sobre mí
 
-- 🎓 Estudiando desarrollo de software en el **SENA CBA**
+- 🎓 Estudiando analiis y desarrollo de software en el **SENA CBA**
 - 🌱 Actualmente aprendiendo **Python**, **Git** y desarrollo web
 - 💡 Me interesa aplicar la tecnología al sector agropecuario
 - 📍 Colombia
@@ -36,15 +36,6 @@ Aprendiz de **Tecnólogo en Análisis y Desarrollo de Software** en el SENA - Ce
 |----------|-------------|------------|
 | [AgroCBA](https://github.com/Ismael221109/AgroCBA) | Sistema de gestión de productos agropecuarios con control de versiones Git | Python |
 | [Huella De Carbono](https://github.com/Ismael221109/Huella_De_CarbonoAN) | Aplicación web sobre huella de carbono | HTML |
-| [Florecitas](https://github.com/Ismael221109/Florecitas) | Proyecto web | HTML |
-
----
-
-## 📊 Estadísticas de GitHub
-
-![Estadísticas de Ismael](https://github-readme-stats.vercel.app/api?username=Ismael221109&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Ismael221109&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 

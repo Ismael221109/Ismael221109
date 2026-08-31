@@ -8,7 +8,7 @@ Aprendiz de **Tecnólogo en Análisis y Desarrollo de Software** en el SENA - Ce
 
 - 🎓 Estudiando desarrollo de software en el **SENA CBA**
 - 🌱 Actualmente aprendiendo **Python**, **Git** y desarrollo web
-- 💡 Me interesa aplicar la tecnología al sector agropecuario
+- 💡 Me interesa aplicar la tecnología al sector agropecuario y minero
 - 📍 Colombia
 
 ---
@@ -34,13 +34,6 @@ Aprendiz de **Tecnólogo en Análisis y Desarrollo de Software** en el SENA - Ce
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-![Estadísticas de Ismael](https://github-readme-stats.vercel.app/api?username=Ismael221109&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Ismael221109&layout=compact&theme=tokyonight&hide_border=true)
-
----
 
 ## 📫 Contacto
 
